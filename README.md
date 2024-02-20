@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img [src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fhacker-hacker-man-hacking-hackers-hack-gif-23864910&psig=AOvVaw3356LeE9HS-p9gVTzXmMdj&ust=1708553633764000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPj2krH4uoQDFQAAAAAdAAAAABAE)" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 ### Hi there 👋
