@@ -1,14 +1,41 @@
-
 <div align="center">
   <img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="100">
-</div>
-<div id="badges" align="center">
+  <div id="badges">
   <a href="https://www.linkedin.com/in/pedro-victor-andreoli-7265051a3/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/pedro-victor-andreoli-7265051a3/">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=PedroVictorAndreoli&style=flat-square&color=blue" alt=""/>
 </div>
 
-### Hi there 👋
+---
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+
+I am a Full Stack Developer and QA<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+
+- :telescope: I’m working as a Quality Assurance.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I read tech articles, study programming and play tabletop RPG 🎲 .
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-victor-andreoli-7265051a3/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -23,18 +50,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?PedroVictorAndreoli&theme=dark&background=000000)](https://git.io/streak-stats)
-<!--
-**PedroVictorAndreoli/PedroVictorAndreoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :fire: My Stats :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PedroVictorAndreoli&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVictorAndreoli&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
