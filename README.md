@@ -21,9 +21,9 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer and QA<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+I am a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
-- :telescope: I’m working as a Software Tester.
+- :telescope: I’m working as a Full Stack Develope.
 
 - :seedling: Exploring Technical Content Writing.
 
