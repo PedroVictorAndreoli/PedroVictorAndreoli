@@ -1,14 +1,14 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="100">
   <div id="badges">
-  <a href="https://www.linkedin.com/in/pedro-victor-andreoli-7265051a3/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/predoandreoli/">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=PedroVictorAndreoli&style=flat-square&color=blue" alt=""/>
+    <a href="https://www.linkedin.com/in/pedro-victor-andreoli-7265051a3/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.instagram.com/predoandreoli/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=PedroVictorAndreoli&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
@@ -19,21 +19,21 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me
 
 I am a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
-- :telescope: I’m working as a Full Stack Develope.
+- :telescope: I’m working as a Full Stack Developer.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I read tech articles, study programming and play tabletop RPG 🎲 .
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-victor-andreoli-7265051a3/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-victor-andreoli-7265051a3/)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 
 
 <div>
@@ -48,13 +48,15 @@ I am a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle"  alt="oracle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PedroVictorAndreoli&theme=dark&background=000000)](https://git.io/streak-stats)
 
